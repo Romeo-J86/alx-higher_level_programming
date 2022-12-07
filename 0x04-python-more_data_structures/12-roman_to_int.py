@@ -63,4 +63,3 @@ def roman_to_int(roman_string):
             return 0
         i += 1
     return answer
-    
